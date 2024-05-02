@@ -25,6 +25,8 @@ main{
 .featured{
     text-align: left;
     margin-top: 50px;
+    border-left: solid 3px orange;
+    padding-left: 10px;
 }
 .featured p{
     margin: 0;
