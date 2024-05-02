@@ -1,11 +1,12 @@
 body{
-    margin: 5% 20% 0 22%; 
+     
     
 }
-
+.contenitore{
+    margin: 5% 20% 0 22%;
+}
 header{
     text-align: center;
-
 }
 .logo img{
     width: 11em;
