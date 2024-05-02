@@ -1,6 +1,7 @@
 body{
+    font-family: "Lato", sans-serif;
      
-    
+   font-size: 13 px; 
 }
 .contenitore{
     margin: 5% 20% 0 22%;
@@ -31,4 +32,7 @@ main{
 }
 .featured p{
     margin: 0;
+}
+hr{
+    border-color: aqua;
 }
