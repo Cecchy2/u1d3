@@ -36,3 +36,6 @@ main{
 hr{
     border-color: aqua;
 }
+.video img{
+    border-radius: 10px;
+}
